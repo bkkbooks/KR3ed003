@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed003_000.yaml, hash: 'sha256:bac726c2613654de417e20a9203cb5b904eaa8f947fddd6c5b9c47bfe51c8e47'}
+  - {seq: 0, filename: KR3ed003_000.yaml, hash: 'sha256:76c7bc23854ccc9e54daa29e6a6fc65054d6b2b11edd24015df9792f5c33c549'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed003_000.markers.yaml, hash: 'sha256:fa1f62d0a6346c0f92fc6f79226acfcd699dea9d609add001b741a8eede77a29'}
+  - {seq: 0, role: markers, filename: assets/KR3ed003_000.markers.yaml, hash: 'sha256:fa0cdf2417d54f6e04020661a4309a8e9c311869aae82878fb86fc402f4f1790'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1261,7 +1261,4 @@ table_of_contents:
   label: 孫真人養生銘
   type: section
   level: 1
-hash: sha256:3db247b43c0a9f97e86ad2e0d94f611007e343a6196d32144c67d42af760d98d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:483db756de1899dea6ca7495427622eafb09dd75874693e9092676c649103791
