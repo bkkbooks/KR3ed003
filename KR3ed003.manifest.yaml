@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed003/v1
 canonical_location: https://kanripo.org/bkk/KR3ed003/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 孫真人海上方
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed003_000.yaml, hash: 'sha256:76c7bc23854ccc9e54daa29e6a6fc65054d6b2b11edd24015df9792f5c33c549'}
+  - {seq: 0, filename: KR3ed003_000.yaml, hash: 'sha256:05d7abf961c9cdf23e4a060fbf3b6685c4f42ead365c2106bb09f96634c97386'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed003_000.markers.yaml, hash: 'sha256:fa0cdf2417d54f6e04020661a4309a8e9c311869aae82878fb86fc402f4f1790'}
+  - {seq: 0, role: markers, filename: assets/KR3ed003_000.markers.yaml, hash: 'sha256:2aa5729477355eb89606bf8864f9a217b20755ef6e38d8f97834aa224118c1e4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1261,4 +1261,7 @@ table_of_contents:
   label: 孫真人養生銘
   type: section
   level: 1
-hash: sha256:483db756de1899dea6ca7495427622eafb09dd75874693e9092676c649103791
+hash: sha256:bfdbeb0682214a59c62ea889e9ee624c07cbcbcdbbaf6acd98756b6e0ab63f7d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
